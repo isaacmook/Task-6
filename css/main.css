@@ -1,0 +1,62 @@
+form{
+    width: 30%;
+    background-color: #202020;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding-left: 9%;
+    padding-right: 9%;
+    padding-top: 25px;
+    padding-bottom: 40px;
+
+}
+
+.input-elm{
+    width: 95%;
+    height: 35px;
+    border-radius: 30px;
+    padding-left: 15px;
+    margin-top: 15px;
+    border: none;
+
+}
+select, button{
+    width: 95% !important;
+
+}
+button{
+    background-color: green !important;
+    color: white;
+}
+h3{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.container {
+    position: relative;
+    border-radius: 5px;
+    padding: 20px;
+} 
+
+.checkbox{
+    color: white;
+}
+
+.btn {
+    width: 100%;
+    border: none;
+    font-size: 17px;
+    text-decoration: none; /* removes underline from <a> tags */
+    color: white;
+    font-family: sans-serif;
+}
+hr {
+    border: 1px solid #202020;
+}
+p{
+    color: #8c8c8c;
+    text-align: center;
+    padding-top: 20px;
+}
+  
